@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_html">
+    <title>What is HTML</title>
+    <shortdesc>Explanation of HTML in simple terms
+    </shortdesc>
+    <conbody>
+        <p>Hyper Text Markup Language (HTML) is a markup language for creating a webpage. Webpages are usually viewed in a web browser. They can include writing, links, pictures, and even sound and video. HTML is used to mark and describe each of these kinds of content so the web browser can display them correctly.</p>
+    </conbody>
+    <related-links>
+        <link href="what_is_html.dita"></link>
+        <link href="What_is_XML.dita"></link>
+        <link href="What_is_a_Markup_Language.dita"></link>
+    </related-links>
+</concept>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="document_type_definition">
+    <title>Document Type Definition</title>
+    <shortdesc>The importance of document type definition, also known as DTD</shortdesc>
+    <conbody>
+        <p>A document type definition (DTD) is a set of markup declarations that define a document type for a SGML-family markup language (GML, SGML, XML, HTML). 
+            A DTD defines the valid building blocks of an XML document. It defines the document structure with a list of validated elements and attributes. A DTD can be declared inline inside an XML document, or as an external reference.[1] 
+            XML uses a subset of SGML DTD. </p>
+        <p>As of 2009, newer XML namespace-aware schema languages (such as W3C XML Schema and ISO RELAX NG) have largely superseded DTDs. A namespace-aware version of DTDs is being developed as Part 9 of ISO DSDL. DTDs persist in applications that need special publishing characters, such as the XML and HTML Character Entity References, which derive from larger sets defined as part of the ISO SGML standard effort. </p>
+    
+        <p>An attribute list specifies for a given element type the list of all possible attribute associated with that type. For each possible attribute, it contains: 
+            the declared name of the attribute,
+            its data type (or an enumeration of its possible values),
+            and its default value.
+            
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="oxygen_xml_editor">
+    <title>Oxygen XML Editor</title>
+    <shortdesc>The Complete Solution for XML Authoring, Development and Collaboration</shortdesc>
+    <conbody>
+        <p>Oxygen XML Editor is the best XML editor available and provides a comprehensive suite of XML authoring and development tools. It is designed to accommodate a large number of users, ranging from beginners to XML experts. It is available on multiple platforms, all major operating systems, and as a standalone application or an Eclipse plug-in. You can use Oxygen XML Editor in conjunction with all XML-based technologies and it includes a large variety of powerful tools for creating, editing, and publishing XML documents. </p>
+    
+    <p><b>Features of Oxygen XML Editor</b></p>
+    <ul>
+        <li>The Oxygen XML Editor views can be configured to be dockable, floating, and hideable</li>
+        <li>The toolbars in Oxygen XML Editor can be customized according to your specific needs</li>
+        <li>Validate XML documents with XML Schema, Relax NG, DTD, NVDL, and Schematron schema or embedded Schematron rules</li>
+        <li>The schema editing support includes a variety of searching and refactoring actions</li>
+    </ul>
+    </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jfl_rcc_qjb">
+    <title>Some of the Elements of HTML</title>
+    <shortdesc>Details of the basic and most common elements of HTML</shortdesc>
+    <refbody> 
+        <section>
+            <title>Overview</title>
+            <codeblock>declaration: !DOCTYPE html. </codeblock>
+          
+            <p>
+       All HTML documents are divided into two main parts: the head and the body. When you begin any new page, it must have a declaration:  It's telling or declaring to the browser that the following file is an HTML file. To build any webpage you will need four primary tags:
+            </p>
+            
+        </section>  
+    </refbody>
+       
+</reference>    

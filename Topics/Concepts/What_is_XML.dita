@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="What_is_XML">
+    <title>What is XML</title>
+    <shortdesc>An explanation of the XML Markup language</shortdesc>
+    <conbody>
+        <p></p>
+        <ul>
+            <li>XML stands for eXtensible Markup Language</li>
+            <li>XML is a markup language much like HTML</li>
+            <li>XML was designed to store and transport data</li>
+            <li>XML was designed to be self-descriptive</li>
+            <li>XML is a W3C Recommendation</li>
+        </ul>
+    </conbody>
+</concept>

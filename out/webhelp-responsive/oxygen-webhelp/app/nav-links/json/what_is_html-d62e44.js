@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Some of the Elements of HTML","shortdesc":"<p class=\"shortdesc\">Details of the basic and most common elements of HTML</p>","href":"Topics\/Reference\/Some_of_the_elements_of_HTML.html","attributes": {"data-id":"reference_jfl_rcc_qjb",},"menu": {"hasChildren":false,},"tocID":"reference_jfl_rcc_qjb-d62e55","topics":[]}]});

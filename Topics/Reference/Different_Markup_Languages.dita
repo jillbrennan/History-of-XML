@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_a2y_1xb_qjb">
+    <title>Different Markup Languages</title>
+    <shortdesc>A list of all the various markup languages that exist</shortdesc>
+    <refbody>
+        <table>
+            <tgroup cols="2">
+                <colspec colsep="1"/>
+                <colspec colsep="1"/>
+                <thead>
+                    <row>
+                        <entry>List of main markup languages</entry>
+                        <entry>Their Meaning</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>XML</entry>
+                        <entry>eXtensible Markup Language </entry>
+                    </row>
+                    <row>
+                        <entry>HTML</entry>
+                        <entry>HyperText Markup Language </entry>
+                    </row>
+                    <row>
+                        <entry>XHTML</entry>
+                        <entry>eXtended HyperText Markup Language  </entry>
+                    </row>
+                </tbody>
+           
+            </tgroup>
+        </table>
+       
+        <simpletable>
+            <sthead> 
+                <stentry>Other less common markup languages</stentry>
+            </sthead>
+            <strow>
+                <stentry>Display ML</stentry>
+            </strow>
+            <strow>
+                <stentry>Chemical Markup language</stentry>
+            </strow>
+            <strow>
+                <stentry>eLesson Markup language</stentry>
+            </strow>
+        </simpletable>
+        
+    </refbody>
+</reference>

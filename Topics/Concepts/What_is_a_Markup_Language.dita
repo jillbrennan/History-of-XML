@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="What_is_a_Markup_Language">
+    <title>What is a markup language</title>
+    <shortdesc>Features and benefits of markup languages</shortdesc>
+    <conbody>
+        <p>A markup language is a computer language that uses tags to define elements within a document. It is human-readable, meaning markup files contain standard words, rather than typical programming syntax. While several markup languages exist, the two most popular are HTML and XML.</p>
+    </conbody>
+</concept>

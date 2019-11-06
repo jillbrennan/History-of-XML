@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>History of XML Language</title>
+    <topicref href="Topics/Concepts/What_is_a_Markup_Language.dita">
+        <topicref href="Topics/Reference/Different_Markup_Languages.dita">
+            <topicref href="Topics/Concepts/What_is_XML.dita"/>
+            <topicref href="Topics/Concepts/what_is_html.dita">
+                <topicref href="Topics/Reference/Some_of_the_elements_of_HTML.dita"/>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="Topics/Concepts/what_is_a_schema_language.dita">
+        <topicref href="Topics/Concepts/document_type_definition.dita"/>
+        <topicref href="Topics/Tasks/creating_a_schema_language_in_oxygen.dita"/>
+    </topicref>
+    <topicref href="Topics/Concepts/oxygen_xml_editor.dita"/>
+</map>

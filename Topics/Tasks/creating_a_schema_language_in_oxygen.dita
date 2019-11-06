@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="creating_a_schema_language_in_oxygen">
+    <title>Creating a schema language in Oxygen</title>
+    <shortdesc>Steps to creating a schema language in Oxygen</shortdesc>
+   
+    <taskbody>
+        <prereq>Download Oxygen editor to your laptop</prereq>
+       <steps>
+           <step>
+               <cmd>Open the XML document for which a DTD will be created.</cmd>
+           </step>
+           <step>
+               <cmd>Go to Document > XML Document > Learn Structure (Ctrl + Shift + L (Command + Shift + L on OS X)). 
+                   The Learn Structure action reads the mark-up structure of the current document. The Learn completed message is displayed in the application status bar when the action is finished.</cmd>
+           </step>
+           <step>
+               <cmd>Go to Document > XML Document > Save Structure (Ctrl + Shift + S (Command + Shift + S on OS X)) and enter the DTD file path.</cmd>
+           </step>
+           <step>
+               <cmd>Press the Save button.</cmd>
+           </step>
+       </steps>
+    </taskbody>
+</task>
